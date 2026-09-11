@@ -1,4 +1,11 @@
-## Hi there 👋
+## Pedro Cunha
+## Systems Analysis and Development student focused on learning, building projects and improving my skills in technology.
+
+I’m currently learning Python and MySQL
+
+How to reach me:
+LinkedIn: [linkedin.com/in/pedroh-scunha](linkedin.com/in/pedroh-scunha)
+📫[pedroh.scunha07@outlook.com](pedroh.scunha07@outlook.com)
 
 <!--
 **pedrohcunha07/pedrohcunha07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +13,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
