@@ -6,6 +6,7 @@ I’m currently learning Python and MySQL
 ### How to reach me:
 
 LinkedIn: [linkedin.com/in/pedroh-scunha](linkedin.com/in/pedroh-scunha)
+
 📫[pedroh.scunha07@outlook.com](pedroh.scunha07@outlook.com)
 
 <!--
