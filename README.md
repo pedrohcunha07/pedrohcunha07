@@ -7,7 +7,7 @@ I’m currently learning Python and MySQL
 
 LinkedIn: [linkedin.com/in/pedroh-scunha](linkedin.com/in/pedroh-scunha)
 
-📫[pedroh.scunha07@outlook.com](pedroh.scunha07@outlook.com)
+Email: [pedroh.scunha07@outlook.com](pedroh.scunha07@outlook.com)
 
 <!--
 **pedrohcunha07/pedrohcunha07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
