@@ -3,8 +3,8 @@
 
 I’m currently learning Python and MySQL
 
-I'm also working on personal projects with the objective of achieving more knowledge on back-end programming and logic. You can check the project on the repo: `cine-python`: [https://github.com/pedrohcunha07/cine-python
-(https://github.com/pedrohcunha07/cine-python)
+I'm also working on personal projects with the objective of achieving more knowledge on back-end programming and logic. You can check the project on the repo: 
+`cine-python`: [github.com/pedrohcunha07/cine-python](https://github.com/pedrohcunha07/cine-python)
 
 ### How to reach me:
 
