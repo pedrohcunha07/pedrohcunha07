@@ -1,4 +1,4 @@
-## Pedro Cunha
+## Pedro Henrique Silva da Cunha
 ## Systems Analysis and Development student focused on learning, building projects and improving my skills in technology.
 
 I’m currently learning Python and MySQL
